@@ -11,8 +11,8 @@
 *Ask me about:* How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
 ### 🛠 Tools and Languages: <br>
-<img align="left" alt="HTML5" width="32px" src="https://png.pngtree.com/png-vector/20190403/ourlarge/pngtree-html-file-document-icon-png-image_909585.jpg" />
-<img align="left" alt="CSS3" width="32px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -21,6 +21,9 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="32px" src="https://camo.githubusercontent.com/19952fb7bb64328054fd5a9f8c776ca606108cf3/68747470733a2f2f75706c6f6164732e746f7074616c2e696f2f626c6f672f63617465676f72792f6c6f676f2f32352f657870726573735f6a732e706e67" />
 <img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/d977c37fe74bd2ea7c56f086c9d0b2cb8d34d1a2/68747470733a2f2f7777772e636c6f7564612e63612f77702d636f6e74656e742f75706c6f6164732f323031332f30332f6d6f6e676f64622d6c6f676f2e706e67" />
+
+<img align="left" alt="GraphQl" width="32px" src="https://www.nylas.com/wp-content/uploads/GraphQL_Blog@2x.png" />
+
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
