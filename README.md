@@ -3,7 +3,7 @@
 </b>
 
 <b>*Currently working on*:</b> 👩🏻‍💻 
-- Organizing Coding Workshops mainly with JavaScript for DCI. 
+- Organizing [Coding Workshops](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for DCI. 
 - Articles that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Building React/Gatsby Blog app
 
