@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/cuHjncTuHW40g/html5" />
+<img src="https://media.giphy.com/media/cuHjncTuHW40g/giphy.gif" />
  Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
 
 *Currently working on*: 👩🏻‍💻 
