@@ -7,16 +7,16 @@
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Here are some examples of what I have been writing on: <br>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://c.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-  javascript-2eie)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7)<br>
 - Building an application with React/Gatsby - Tech Blog 
 
 <b>*Currently Learning*:</b>🤓  React-Native and Python <br>
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
-### Have a look at [My Portfolio](https://irena-portfolio.netlify.app/) Tech Stack: React, HTML, CSS
+### Have a look at [My Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React,Gatsby, HTML, CSS
 
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
