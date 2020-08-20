@@ -1,13 +1,13 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80" />
  Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
 
-*Currently working on*: Articles that teache students interested in Web Development mainly JavaScript and the MERN stack.
+*Currently working on*: 👩🏻‍💻 Articles that teache students interested in Web Development mainly JavaScript and the MERN stack.
 
-*Currently Learning*: React-Native and Python <br>
+*Currently Learning*:🤓  React-Native and Python <br>
 
 *Ask me about:* How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
-### Languages and Tools: <br>
+### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/css.png" />
 
