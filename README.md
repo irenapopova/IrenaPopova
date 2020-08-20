@@ -11,7 +11,7 @@
 *Ask me about:* How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
 ### 🛠 Tools and Languages: <br>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
+<img align="left" alt="HTML5" width="32px" src="https://png.pngtree.com/png-vector/20190403/ourlarge/pngtree-html-file-document-icon-png-image_909585.jpg" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" />
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
