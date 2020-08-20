@@ -15,7 +15,7 @@
 
 <b>*Currently Learning*:</b>🤓  React-Native and Python <br>
 
-<b>*Ask me about:*</b> How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
+<b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
 ### Have a look at [My Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React,Gatsby, HTML, CSS
 
