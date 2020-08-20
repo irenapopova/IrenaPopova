@@ -23,7 +23,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/d977c37fe74bd2ea7c56f086c9d0b2cb8d34d1a2/68747470733a2f2f7777772e636c6f7564612e63612f77702d636f6e74656e742f75706c6f6164732f323031332f30332f6d6f6e676f64622d6c6f676f2e706e67" />
 
 <img align="left" alt="GraphQl" width="32px" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
-
+<img align="left" alt="Python" width="32px" src="https://etopian.com/wp-content/uploads/icon_python-300x300.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
