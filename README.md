@@ -2,9 +2,13 @@
 <b> Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
 </b>
 
-<b>*Currently working on*:</b> 👩🏻‍💻 
+<b>*Currently working focus is on*:</b> 👩🏻‍💻 
 - Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for DCI. 
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
+- Here are some examples of what I have been writing on: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://c.com/blog/react-components/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://c.com/blog/css-flexbox/)<br>
 - Building an application with React/Gatsby - Tech Blog 
 
 <b>*Currently Learning*:</b>🤓  React-Native and Python <br>
