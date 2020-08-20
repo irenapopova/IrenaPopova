@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1536069221282-d877868cad6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" />
+<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80" />
 ### Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
 
 *Currently working on*: Articles that teache students interested in Web Development mainly JavaScript and the MERN stack.
@@ -8,6 +8,7 @@
 
 *Ask me about:* How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
+### Languages and Tools: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/css.png" />
 
@@ -26,6 +27,7 @@
 <br />
 
 ---
+
 [![Irena's github stats](https://github-readme-stats.vercel.app/api?username=IrenaPopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats) [![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrenaPopova&title_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats)
 
 😄 Pronouns: She/Her/Hers <br>
