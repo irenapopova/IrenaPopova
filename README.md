@@ -3,7 +3,7 @@
 
 *Currently working on*: 👩🏻‍💻 
 - Organizing Coding Workshops mainly with JavaScript for DCI. 
-- Articles that teach students interested in Web Development mainly JavaScript and the MERN stack.
+- Articles that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Building React/Gatsby Blog app
 
 *Currently Learning*:🤓  React-Native and Python <br>
