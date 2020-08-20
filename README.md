@@ -1,14 +1,15 @@
 <img src="https://media.giphy.com/media/cuHjncTuHW40g/giphy.gif" />
 <b> Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.</b>
 
-*Currently working on*: 👩🏻‍💻 
+<b>*Currently working on*:</b> 👩🏻‍💻 
+
 - Organizing Coding Workshops mainly with JavaScript for DCI. 
 - Articles that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Building React/Gatsby Blog app
 
-*Currently Learning*:🤓  React-Native and Python <br>
+<b>*Currently Learning*:</b>🤓  React-Native and Python <br>
 
-*Ask me about:* How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
+<b>*Ask me about:*</b> How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
