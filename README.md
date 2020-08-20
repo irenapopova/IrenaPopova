@@ -1,7 +1,9 @@
 <img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80" />
  Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
 
-*Currently working on*: 👩🏻‍💻 Articles that teache students interested in Web Development mainly JavaScript and the MERN stack.
+*Currently working on*: 👩🏻‍💻 - Organizing Coding Workshops mainly with JavaScript for DCI. 
+- Articles that teach students interested in Web Development mainly JavaScript and the MERN stack.
+- Building React/Gatsby Blog app
 
 *Currently Learning*:🤓  React-Native and Python <br>
 
