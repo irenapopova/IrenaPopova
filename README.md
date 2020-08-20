@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/cuHjncTuHW40g/giphy.gif" />
- Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
+<b> Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.</b>
 
 *Currently working on*: 👩🏻‍💻 
 - Organizing Coding Workshops mainly with JavaScript for DCI. 
