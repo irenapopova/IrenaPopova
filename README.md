@@ -7,9 +7,9 @@
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Here are some examples of what I have been writing on: <br>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-  javascript-2eie)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-  javascript-2eie)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7)<br>
 - Building an application with React/Gatsby - Tech Blog 
 
 <b>*Currently Learning*:</b>🤓  React-Native and Python <br>
