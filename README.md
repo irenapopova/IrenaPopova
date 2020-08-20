@@ -3,7 +3,7 @@
 </b>
 
 <b>*Currently working focus is on*:</b> 👩🏻‍💻 
-- Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for <b>Digital Career Institute</b<. 
+- Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for <b>Digital Career Institute</b>. 
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Here are some examples of what I have been writing on: <br>
 
