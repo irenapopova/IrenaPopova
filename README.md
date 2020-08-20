@@ -16,6 +16,8 @@
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio sitefor you, or assistance with an application you are working on <br>
 
+### Have a look at [My Portfolio](https://irena-portfolio.netlify.app/) Tech Stack: React, HTML, CSS
+
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
