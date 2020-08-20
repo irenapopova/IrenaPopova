@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/cuHjncTuHW40g/giphy.gif" />
-<b> Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.</b>
+<b> Hi there 👋, I am Irena Popova. I am a Web Developer, Linguist & tech writer. Welcome to my Github page.
+</b>
 
 <b>*Currently working on*:</b> 👩🏻‍💻 
-
 - Organizing Coding Workshops mainly with JavaScript for DCI. 
 - Articles that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Building React/Gatsby Blog app
