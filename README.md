@@ -19,7 +19,7 @@
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
-### Have a look at [My Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React,Gatsby, HTML, CSS
+### [Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React,Gatsby, 
 
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
