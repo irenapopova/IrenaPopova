@@ -15,7 +15,7 @@
 
 - Building a Blog application with React/Gatsby - My New Tech Blog which will be deployed soon and the link will be added here
 
-<b>*Currently Learning Radar*:</b>🤓  Python <br>
+<b>*Currently on the Learning Radar*:</b>🤓  Python <br>
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
