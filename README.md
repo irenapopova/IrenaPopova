@@ -6,14 +6,15 @@
 <b>*Currently working focus is on*:</b> 👩🏻‍💻 
 - Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for <b>Digital Career Institute</b>. 
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
-- Here are some examples of what I have been writing on: <br>
+- Here are some examples of what I have been writing on in DEV Community: <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7)<br>
-- Building an application with React/Gatsby - Tech Blog 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie) in DEV  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf) in DEV <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7) in DEV <br>
 
-<b>*Currently Learning*:</b>🤓  React-Native and Python <br>
+- Building a Blog application with React/Gatsby - My New Tech Blog which will be deployed soon and the link will be added here
+
+<b>*Currently Learning Radar*:</b>🤓  Python <br>
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
