@@ -54,7 +54,10 @@
 [![Irena's github stats](https://github-readme-stats.vercel.app/api?username=IrenaPopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats) [![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrenaPopova&title_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats)
 
 😄 Pronouns: She/Her/Hers <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile:
+<br>
+
 ### Contact me:
 
 
