@@ -6,7 +6,7 @@
 <b>*Currently working focus is on*:</b> 👩🏻‍💻 
 - Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for <b>Digital Career Institute</b>. 
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
-- Here are some examples of what I have been writing on in [DEV Community](https://dev.to/irenejpopova): <br>
+- Below are some topics to the articles that I have been writing on in [DEV Community](https://dev.to/irenejpopova): <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[What is a Closure?](https://dev.to/irenejpopova/what-is-a-closure-1h0p) in DEV  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Objects & Prototypes in JavaScript](https://dev.to/irenejpopova/objects-and-prototypes-in-javascript-2eie) in DEV  <br>
