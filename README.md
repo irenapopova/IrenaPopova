@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf) in DEV <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7) in DEV <br>
 
-- Building a Blog application with React/Gatsby - My New[ Tech Blog](https://irena-popova-blog.netlify.app/)
+- Building a Blog application with React/Gatsby - My New[ Tech Blog](https://irena-popova-blog.netlify.app/) - Project in progress
 
 <b>*On the Learning Radar*:</b>🤓  Python <br>
 
