@@ -49,7 +49,7 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Expo" width="32px" src="https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed?auto=format&auto=compress&codec=mozjpeg&cs=strip" />
+<img align="left" alt="Android Studio" width="32px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" />
 <img align="left" alt="Android Studio" width="32px" src="https://developer.android.com/studio/images/studio-icon.svg" />
 
 
