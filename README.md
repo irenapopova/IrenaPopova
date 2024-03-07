@@ -32,6 +32,10 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img align="left" alt="Next JS" width="32px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
+
+<img align="left" alt="Vue" width="32px" src="https://m.media-amazon.com/images/I/61np1wbr9pL.png" />
+
 <img align="left" alt="Gatsby" width="32px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/211/full/gatsby.png" />
 
 <img align="left" alt="Redux" width="32px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" />
@@ -43,6 +47,7 @@
 <img align="left" alt="MongoDB" width="32px" src="https://ih1.redbubble.net/image.156314206.8326/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" />
 
 <img align="left" alt="GraphQl" width="32px" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
+
 <img align="left" alt="Python" width="32px" src="https://etopian.com/wp-content/uploads/icon_python-300x300.png" />
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
