@@ -34,7 +34,7 @@
 
 <img align="left" alt="Gatsby" width="32px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/211/full/gatsby.png" />
 
-<img align="left" alt="Redux" width="32px" src="https://ih1.redbubble.net/image.370541778.7231/mo,small,flatlay,product_square,600x600.u20.jpg" />
+<img align="left" alt="Redux" width="32px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" />
