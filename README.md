@@ -78,8 +78,9 @@
 [linkedin]: https://www.linkedin.com/in/irena-popova/
 
 
+     
+
 <img src="https://camo.githubusercontent.com/c401f95cf23944ddaf2966d48cc1c68c2e712745670286f5f8f4642867facf50/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6c6162746f6361742e706e67" height="160px" width="160px" data-canonical-src="https://octodex.github.com/images/labtocat.png" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/1c6ad28c767849a2c4220aea57ee0a2fb15bb4d11fd07bf9276ddd8f8527497e/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" height="160px" data-canonical-src="https://octodex.github.com/images/daftpunktocat-thomas.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<img src="https://camo.githubusercontent.com/a4aba565cfbf7bddca52637fdcfc80a644db2c0638e3addbaf70dc3375e08185/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" height="160px" data-canonical-src="https://octodex.github.com/images/daftpunktocat-guy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
