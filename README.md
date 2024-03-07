@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/cuHjncTuHW40g/giphy.gif" />
-<h1> Hi there 👋, I am Irena Popova. I am a passionate Web Developer, Linguist, Teacher & tech writer who likes listening to music while coding.  Loves to create captivating user experiences using the latest and widely used technologies. </h1>
+<h3> Hi there 👋, I am Irena Popova. I am a passionate Web Developer, Linguist, Teacher & tech writer who likes listening to music while coding.  Loves to create captivating user experiences using the latest and widely used technologies. </h3>
   <br>
   <b>
   Welcome to my Github page.
