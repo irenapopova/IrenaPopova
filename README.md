@@ -34,7 +34,8 @@
 
 <img align="left" alt="Gatsby" width="32px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/211/full/gatsby.png" />
 
-<img align="left" alt="Redux" width="32px" src="https://camo.githubusercontent.com/84fefba8b3d171bbf882b837a12bcb2090221f62/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a744f49365543354561533266504974436573492d41512e706e67" />
+<img align="left" alt="Redux" width="32px" src="https://ih1.redbubble.net/image.370541778.7231/mo,small,flatlay,product_square,600x600.u20.jpg" />
+
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" />
 
@@ -46,8 +47,9 @@
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br>
+
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Android Studio" width="32px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" />
