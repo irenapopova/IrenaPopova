@@ -34,7 +34,7 @@
 
 <img align="left" alt="Next JS" width="32px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
 
-<img align="left" alt="Vue" width="32px" src="https://m.media-amazon.com/images/I/61np1wbr9pL.png" />
+<img align="left" alt="Vue" width="32px" src="https://www.neplyn.com/wp-content/uploads/2021/12/4990588.png" />
 
 <img align="left" alt="Gatsby" width="32px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/211/full/gatsby.png" />
 
