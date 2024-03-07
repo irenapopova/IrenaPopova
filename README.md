@@ -56,6 +56,9 @@
 <br>
 <br />
 
+<link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
 ---
 
 [![Irena's github stats](https://github-readme-stats.vercel.app/api?username=IrenaPopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats) [![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrenaPopova&title_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats)
