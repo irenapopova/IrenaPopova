@@ -39,7 +39,7 @@
 <img align="left" alt="Express" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" />
 
 <img align="left" alt="Jest" width="32px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
-<img align="left" alt="MongoDB" width="32px" src="https://camo.githubusercontent.com/d977c37fe74bd2ea7c56f086c9d0b2cb8d34d1a2/68747470733a2f2f7777772e636c6f7564612e63612f77702d636f6e74656e742f75706c6f6164732f323031332f30332f6d6f6e676f64622d6c6f676f2e706e67" />
+<img align="left" alt="MongoDB" width="32px" src="https://i.pngimg.me/thumb/f/720/m2H7i8d3A0N4H7A0.jpg" />
 
 <img align="left" alt="GraphQl" width="32px" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
 <img align="left" alt="Python" width="32px" src="https://etopian.com/wp-content/uploads/icon_python-300x300.png" />
