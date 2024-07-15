@@ -63,7 +63,6 @@
 
 <br>
 <br />
-<img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JS" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
 
 ---
 
@@ -86,7 +85,11 @@
 [linkedin]: https://www.linkedin.com/in/irena-popova/
 
 
-     
+<img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JS" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/502e97699de280cbac4e807fe61f5302ad818f624053e4e03c9712fcb9cc37e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68616e646c65626172732d4630373732423f267374796c653d666f722d7468652d6261646765266c6f676f3d68616e646c6562617273266c6f676f436f6c6f723d7768697465" alt="handlebars" data-canonical-src="https://img.shields.io/badge/handlebars-F0772B?&amp;style=for-the-badge&amp;logo=handlebars&amp;logoColor=white" style="max-width: 100%;">
+
+<img src="https://camo.githubusercontent.com/d76c0b83ce901c3b7f2d05fbb99d6d28b78d22c48d7fd43b9d4c92cb5ebb8bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64656d6f6e2d3736443034423f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d7768697465" alt="nodemon" data-canonical-src="https://img.shields.io/badge/nodemon-76D04B?&amp;style=for-the-badge&amp;logo=nodemon&amp;logoColor=white" style="max-width: 100%;">
 
 <img align="left" src="https://camo.githubusercontent.com/c401f95cf23944ddaf2966d48cc1c68c2e712745670286f5f8f4642867facf50/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6c6162746f6361742e706e67" height="160px" width="160px" data-canonical-src="https://octodex.github.com/images/labtocat.png" style="max-width: 100%;">
 
