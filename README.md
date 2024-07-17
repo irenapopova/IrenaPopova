@@ -41,9 +41,11 @@
 <img align="left" alt="Redux" width="32px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" />
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
 <img align="left" alt="Express" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" />
 
 <img align="left" alt="Jest" width="32px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
+
 <img align="left" alt="MongoDB" width="32px" src="https://ih1.redbubble.net/image.156314206.8326/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" />
 
 <img align="left" alt="GraphQl" width="32px" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
