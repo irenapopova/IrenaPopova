@@ -15,13 +15,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf) in DEV <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7) in DEV <br>
 
+- Building a FullStack Blog application: Frontend: Vue JS CSS/SASS, Backend: Python - My New[ Tech Blog](h) - Project in progress
+
 - Building a Blog application with React/Gatsby - My New[ Tech Blog](https://irena-popova-blog.netlify.app/) - Project in progress
 
 <b>*On the Learning Radar*:</b>🤓  Python <br>
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
-### [Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React,Gatsby, 
+### [Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React, Gatsby, Vue
 
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
