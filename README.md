@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JavaScript Variables](https://dev.to/irenejpopova/javascript-variables-3hkf) in DEV <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Object Methods in JavaScript](https://dev.to/irenejpopova/object-methods-25h7) in DEV <br>
 
-- Building a FullStack Blog application: Frontend: Vue JS CSS/SASS, Backend: Python - My New[ Tech Blog](h) - Project in progress
+- Building a FullStack Blog application: Frontend: Vue JS CSS/SASS, Backend: Python - My New[ Tech Blog](https://blog-havelduene.vercel.app/) - Project in progress
 
 - Building a Blog application with React/Gatsby - My New[ Tech Blog](https://irena-popova-blog.netlify.app/) - Project in progress
 
