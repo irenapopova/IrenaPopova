@@ -6,7 +6,14 @@
 </b>
 
 <b>*Currently working focus is on*:</b> 👩🏻‍💻 
-- Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) mainly for JavaScript Fundamentals & HTML/CSS for <b>Digital Career Institute</b>. 
+DevOps Focused
+This project is more than just a React tool — react-impact reflects my broader goal as a DevOps-oriented Full-Stack engineer: to make software development pipelines transparent, reproducible, and efficient. With this project, I demonstrate how to analyze React applications, automate builds and deployments, and create reliable Docker-based environments, while integrating observability and monitoring tools like Prometheus, Grafana, and OpenSearch. I also leverage Kubernetes, Helm, GitOps workflows, and CI/CD pipelines to ensure smooth, scalable, and maintainable deployments. My mission is to bridge the gap between development and operations, enabling teams to deliver high-quality, robust, and user-friendly software. This repository showcases my practical approach to modern DevOps practices, containerization, infrastructure automation, and end-to-end system reliability, providing a real-world example of how to implement efficient, production-ready workflows.
+This repository showcases my practical approach to modern DevOps practices, containerization, infrastructure automation, and end-to-end system reliability, while also highlighting my full-stack expertise from React frontends to Node/Python backends.
+
+My personal blog, [irenapopova.com](https://irenapopova.com), is where I share my journey as a **Full-Stack and DevOps engineer**, including hands-on projects, coding experiments, teaching and insights into modern software development practices. From building **React frontends** to implementing **backend services in Node.js and Python**, and exploring **CI/CD, containerization, and observability tools**, my blog showcases how I turn ideas into **efficient, scalable, and maintainable software**. It’s a space to explore my approach to solving real-world challenges, learning new technologies, and continuously improving as a developer.
+
+
+- Organizing [Coding Workshop & Lessons](https://github.com/DCI-TechEd) for JavaScript Fundamentals & HTML/CSS, for <b>Digital Career Institute</b>. 
 - Articles  that teach students interested in Web Development mainly JavaScript and MERN stack .
 - Below are some topics to the articles that I have been writing on in [DEV Community](https://dev.to/irenejpopova): <br>
 
