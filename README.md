@@ -98,7 +98,8 @@ Here’s a snapshot of the tools I use to automate, monitor, and optimize softwa
 ### Contact me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irena-popova/)
+
 
 <br>
 <br />
