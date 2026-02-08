@@ -7,7 +7,9 @@
 
 <b>*Currently working focus is on*:</b> 👩🏻‍💻 
 DevOps Focused
-This project is more than just a React tool — react-impact reflects my broader goal as a DevOps-oriented Full-Stack engineer: to make software development pipelines transparent, reproducible, and efficient. With this project, I demonstrate how to analyze React applications, automate builds and deployments, and create reliable Docker-based environments, while integrating observability and monitoring tools like Prometheus, Grafana, and OpenSearch. I also leverage Kubernetes, Helm, GitOps workflows, and CI/CD pipelines to ensure smooth, scalable, and maintainable deployments. My mission is to bridge the gap between development and operations, enabling teams to deliver high-quality, robust, and user-friendly software. This repository showcases my practical approach to modern DevOps practices, containerization, infrastructure automation, and end-to-end system reliability, providing a real-world example of how to implement efficient, production-ready workflows.
+This project is more than just a React tool — react-impact reflects my broader goal as a DevOps-oriented Full-Stack engineer: to make software development pipelines transparent, reproducible, and efficient. With this project, I demonstrate how to analyze React applications, automate builds and deployments, and create reliable Docker-based environments, while integrating observability and monitoring tools like Prometheus, Grafana, and OpenSearch. I also leverage Kubernetes, Helm, GitOps workflows, and CI/CD pipelines to ensure smooth, scalable, and maintainable deployments. 
+
+My mission is to bridge the gap between development and operations, enabling teams to deliver high-quality, robust, and user-friendly software. This repository showcases my practical approach to modern DevOps practices, containerization, infrastructure automation, and end-to-end system reliability, providing a real-world example of how to implement efficient, production-ready workflows.
 This repository showcases my practical approach to modern DevOps practices, containerization, infrastructure automation, and end-to-end system reliability, while also highlighting my full-stack expertise from React frontends to Node/Python backends.
 
 My personal blog, [irenapopova.com](https://irenapopova.com), is where I share my journey as a **Full-Stack and DevOps engineer**, including hands-on projects, coding experiments, teaching and insights into modern software development practices. From building **React frontends** to implementing **backend services in Node.js and Python**, and exploring **CI/CD, containerization, and observability tools**, my blog showcases how I turn ideas into **efficient, scalable, and maintainable software**. It’s a space to explore my approach to solving real-world challenges, learning new technologies, and continuously improving as a developer.
@@ -75,18 +77,11 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 <br>
 <br>
 
-
-<img src="https://camo.githubusercontent.com/84372c7d2f1a7308844360ecad82d49b3f6cbc068a0c5e31aeea6ca5344b77ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JS" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;">
-
-<img src="https://camo.githubusercontent.com/502e97699de280cbac4e807fe61f5302ad818f624053e4e03c9712fcb9cc37e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68616e646c65626172732d4630373732423f267374796c653d666f722d7468652d6261646765266c6f676f3d68616e646c6562617273266c6f676f436f6c6f723d7768697465" alt="handlebars" data-canonical-src="https://img.shields.io/badge/handlebars-F0772B?&amp;style=for-the-badge&amp;logo=handlebars&amp;logoColor=white" style="max-width: 100%;">
-
-<img src="https://camo.githubusercontent.com/d76c0b83ce901c3b7f2d05fbb99d6d28b78d22c48d7fd43b9d4c92cb5ebb8bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64656d6f6e2d3736443034423f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64656d6f6e266c6f676f436f6c6f723d7768697465" alt="nodemon" data-canonical-src="https://img.shields.io/badge/nodemon-76D04B?&amp;style=for-the-badge&amp;logo=nodemon&amp;logoColor=white" style="max-width: 100%;">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
 ---
-
-[![Irena's github stats](https://github-readme-stats.vercel.app/api?username=irenapopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/irenapopova/github-readme-stats)
-
-[![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irenapopova&title_color=b38f28)](https://github.com/irenapopova/github-readme-stats)
 
 
 😄 Pronouns: She/Her/Hers <br>
