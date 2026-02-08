@@ -30,8 +30,9 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 <b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
 
-### [Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React, Gatsby, Vue
+### [Portfolio](https://irena-portfolio.netlify.app/)  - MERN Tech Stack: React, Gatsby, Vue, Vite, Next.js. Nuxt.js
 
+<br>
 ### 🛠 Tools and Languages: <br>
 <img align="left" alt="Next JS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
@@ -39,15 +40,11 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 <img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 
 
-
-
-
 <img align="left" alt="Express" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
 <img align="left" alt="Jest" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="GraphQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-
 
 
 
@@ -60,7 +57,10 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Android Studio" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
+<img align="left" alt="Apollo GraphQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 
+<br>
 <br>
 
 ## 🛠️ DevOps & Observability Tools
@@ -73,6 +73,7 @@ Here’s a snapshot of the tools I use to automate, monitor, and optimize softwa
 <img align="left" alt="Grafana" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />
 <img align="left" alt="Helm" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" />
 <img align="left" alt="GitOps" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="Podman" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" />
 
 <br>
 
