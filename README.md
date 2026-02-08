@@ -26,9 +26,10 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 - Building a Blog application with React/Gatsby - My New[ Tech Blog](https://irena-popova-blog.netlify.app/) - Project in progress
 
-<b>*On the Learning Radar*:</b>🤓  Python <br>
+<b>*On the Learning Radar*:</b> 🤓 Python, Full-Stack Development, DevOps, CI/CD Pipelines, Cloud Automation <br>
 
-<b>*Ask me about:*</b> How to mentor students, creating a porfolio site for you, or assistance with an application you are working on. <br>
+<b>*Ask me about:*</b> Mentoring students, building portfolio websites, setting up robust CI/CD pipelines, DevOps best practices, or guidance on your coding projects.
+
 
 ### [Portfolio](https://irena-portfolio.netlify.app/)  - MERN Tech Stack: React, Gatsby, Vue, Vite, Next.js. Nuxt.js
 
