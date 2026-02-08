@@ -51,6 +51,9 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+
+
+
 <img align="left" alt="Express" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU" />
 
 <img align="left" alt="Jest" width="32px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax.jpg" />
@@ -61,6 +64,8 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 <img align="left" alt="Python" width="32px" src="https://etopian.com/wp-content/uploads/icon_python-300x300.png" />
 
+
+
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -69,10 +74,14 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Android Studio" width="32px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/expo_logo_icon_145293.png" />
+<img align="left" alt="Android Studio" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 
-<img align="left" alt="Android Studio" width="32px" src="https://developer.android.com/studio/images/studio-icon.svg" />
 
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br>
 <br>
