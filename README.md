@@ -84,7 +84,10 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 ---
 
-[![Irena's github stats](https://github-readme-stats.vercel.app/api?username=IrenaPopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats) [![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrenaPopova&title_color=b38f28)](https://github.com/IrenaPopova/github-readme-stats)
+[![Irena's github stats](https://github-readme-stats.vercel.app/api?username=irenapopova&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/irenapopova/github-readme-stats)
+
+[![Irena Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irenapopova&title_color=b38f28)](https://github.com/irenapopova/github-readme-stats)
+
 
 😄 Pronouns: She/Her/Hers <br>
 
