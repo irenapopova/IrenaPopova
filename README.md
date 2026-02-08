@@ -34,7 +34,7 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 ### [Portfolio](https://irena-portfolio.netlify.app/)  - MERN Tech Stack: React, Gatsby, Vue, Vite, Next.js. Nuxt.js
 
 <br>
-### 🛠 Frontend & Backend Languages, Libraries, Frameworks, and DevOps Tools
+ 🛠 Frontend & Backend Languages, Libraries, Frameworks, and DevOps Tools
 <img align="left" alt="Next JS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
