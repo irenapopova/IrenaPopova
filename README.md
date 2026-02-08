@@ -62,6 +62,18 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 <img align="left" alt="Android Studio" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 
 
+## 🛠️ DevOps & Observability Tools
+
+Here’s a snapshot of the tools I use to automate, monitor, and optimize software pipelines:
+
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Prometheus" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" />
+<img align="left" alt="Helm" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" />
+<img align="left" alt="GitOps" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+
+<br>
 
 
 
