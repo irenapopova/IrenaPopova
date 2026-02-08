@@ -33,23 +33,11 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 ### [Portfolio](https://irena-portfolio.netlify.app/)  - Tech Stack: React, Gatsby, Vue
 
 ### 🛠 Tools and Languages: <br>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Next JS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Gatsby" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />
+<img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Next JS" width="32px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" />
-
-<img align="left" alt="Vue" width="32px" src="https://www.neplyn.com/wp-content/uploads/2021/12/4990588.png" />
-
-<img align="left" alt="Gatsby" width="32px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/211/full/gatsby.png" />
-
-<img align="left" alt="Redux" width="32px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png" />
-
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
 
