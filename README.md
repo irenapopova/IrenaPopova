@@ -61,6 +61,7 @@ My personal blog, [irenapopova.com](https://irenapopova.com), is where I share m
 
 <img align="left" alt="Android Studio" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 
+<br>
 
 ## 🛠️ DevOps & Observability Tools
 
@@ -76,16 +77,14 @@ Here’s a snapshot of the tools I use to automate, monitor, and optimize softwa
 <br>
 
 
-
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 <br>
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Handlebars](https://img.shields.io/badge/Handlebars-F0772B?style=for-the-badge&logo=handlebars&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ---
 
